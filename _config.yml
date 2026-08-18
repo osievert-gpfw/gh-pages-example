@@ -1,0 +1,7 @@
+title: gh-pages-example
+description: Example demonstrating the best practice approach to create and update a GitHub Pages site using Jekyll.
+
+remote_theme: gopro/jekyll-theme-labs
+
+plugins:
+  - jekyll-remote-theme
